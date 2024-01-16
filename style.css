@@ -1,0 +1,55 @@
+*{
+    background-color:powderblue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    padding: 0 5rem;
+}
+
+h1{
+    
+    color: wheat;
+    text-align: center;
+    font-size: 3rem;
+    color: navy;
+}
+
+input{
+    width: 1300px;
+    height: 40px;
+    flex-direction: column;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 14px;
+    justify-content: center;
+}
+button{
+    width: 300px;
+    height: 40px;
+    font-size: 1.4rem;
+    margin-left: 38%;
+    margin-bottom: 0.1rem;
+    text-align: center;
+    border-radius: 18px;
+    background-color: purple;
+}
+li{
+    font-size: 20px;
+    color: saddlebrown;
+}
+.delete{
+    background-color: crimson;
+    margin-right: 40%;
+}
+button:hover{
+    background-color: olivedrab;
+}
+.delete:hover{
+    background-color: goldenrod;
+}
