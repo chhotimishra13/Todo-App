@@ -1,4 +1,4 @@
-# Todo-App
+# To - do
 ## Description
 ### A basic todo list application built using HTML and CSS for managing your tasks and to-do items.
 
