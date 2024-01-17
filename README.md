@@ -11,10 +11,6 @@
    1. HTML
    2. CSS
    3. JavaScript
-
-## Author :
-   Chhoti Mishra
-   Email: mishrachhoti05@gmail.com
-
+      
 ## Link :
    url : https://chhotimishra13.github.io/Todo-App/
