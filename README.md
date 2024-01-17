@@ -2,7 +2,7 @@
 ## Description
 ### A basic todo list application built using HTML and CSS for managing your tasks and to-do items.
 
-## Features
+## Features:
     - Add new tasks to the list.
     - Delete tasks.
     - Simple and clean user interface.
